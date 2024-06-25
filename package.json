@@ -1,7 +1,6 @@
 {
   "name": "node-typescript-boilerplate",
-  "version": "0.0.0",
-  "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
+  "description": "Simple coding interview",
   "devDependencies": {
     "@types/jest": "~29.5",
     "@types/node": "~20",
@@ -32,12 +31,8 @@
     "prettier": "prettier --config .prettierrc --write .",
     "test:watch": "jest --watch"
   },
-  "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
-  "license": "Apache-2.0",
+  "author": "Dominik Jašek",
   "dependencies": {
     "tslib": "~2.6"
-  },
-  "volta": {
-    "node": "20.12.2"
   }
 }
