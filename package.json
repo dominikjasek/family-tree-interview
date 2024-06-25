@@ -29,7 +29,7 @@
     "lint": "eslint . --ext .ts --ext .mts",
     "test": "jest --coverage --transformIgnorePatterns \"node_modules/(?!your-module-name)/\"",
     "prettier": "prettier --config .prettierrc --write .",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watchAll"
   },
   "author": "Dominik Jašek",
   "dependencies": {
