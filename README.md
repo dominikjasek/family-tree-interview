@@ -11,4 +11,4 @@ Requirements:
      - for parameter `Dominik`, it will return `Petr, Václav`
      - for parameter `Amálie`, it will return `Dominik, Petr, Václav`
 
-![img.png](family-tree.png)
+![img.png](family-tree.svg)
